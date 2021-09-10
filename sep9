@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>  
+  <head>
+ </head>   
+  <body> 
+    <h1> LA lakers Player Stats</h1>
+    LA lakers stats for Wayne Ellington!
+    <h2>Wayne Ellington</h2>
+  <br><br>
+  <button>"Press to see player number"</button>
+  <br><br>
+  <table>Height 6'4" </table> 
+  <table>Weight 207lbs</table>
+  <table>Birthday: 11/29/1987</table>
+  
+<h2> Marc Gasol</h2>
+<br><br>
+<button on click="my function (14)>"Press to see player number"</button>
+
+<br><br>
+
+<table>Height 6'11"</table>
+<table>Weight 255 lbs</table>
+<Table>Birthday 1/29/1985</Table>
+<h2>Talen Horton-Tucker</h2>
+<br><br>
+<button on click="my function (5)>"Press to see player number"</button>
+<table> Height 6'4"</table>
+<table>Weight 234 lbs</table>
+<table>Birthday 11/25/2000</table>
+
+<h2>Rajon Rondo</h2>  
+<br><br>
+<button>"Press to see player number"</button>
+<br><br>
+<button on click="my function (4)>"Press to see player number"</button>
+<table>Height 6'1"</table>
+<table>Weight 180 lbs</table>
+<table>Birthday 2/22/1986</table>
