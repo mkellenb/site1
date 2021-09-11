@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>  
+  <head>
+ </head>   
+  <body bgcolor="Purple"> 
+    <script>
+    function show () { 
+      document.getElementById(ellington.jpg)
+    <h1> LA lakers Player Stats</h1>
+    LA lakers stats for Wayne Ellington!
+    <h2>Wayne Ellington</h2>
+  <br><br>
+  <button on click=display"ellington.jpg">"Press to see player number"</button>
+  <table>Height 6'4" </table> 
+  <table>Weight 207lbs</table>      
+  <table>Birthday: 11/29/1987</table>
+  </script>
+  
+  
+<h2> Marc Gasol</h2>
+<br><br>
+<script>
+  function show () {
+  document.getElementById(marc1.jpg)
+<button on click=display "marc1.jpg">"Press to see player number"</button> }
+<table>Height 6'11"</table>
+<table>Weight255 lbs</table>
+<Table>Birthday 1/29/1985</Table>
+<h2>Talen Horton-Tucker</h2>
+<br><br>
+<table> Height 6'4"</table>
+<table>Weight 234 lbs</table>
+<table>Birthday 11/25/2000</table>
+</script>
+
+<h2>Rajon Rondo</h2>  
+<br><br>
+<script>
+  function show () {
+    document.getElementById("rejon1.jpg")
+<button on click =display "rajon1.jpg">"Press to see player number"</button>
+<table>Height 6'1"</table>
+<table>Weight 180 lbs</table>
+<table>Birthday 2/22/1986</table>
+  }
+</script>
